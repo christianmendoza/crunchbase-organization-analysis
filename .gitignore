@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+db.json
+.ipynb_checkpoints
+crunchbase.tar.gz
+organizations.csv
+people.csv
