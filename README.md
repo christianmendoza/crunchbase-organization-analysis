@@ -1,6 +1,9 @@
 # Crunchbase Company Profiles: An Analysis
+View the Jupyter notebook: [crunchbase-analysis.ipynb](//github.com/christianmendoza/crunchbase-organization-analysis/blob/main/crunchbase-analysis.ipynb)
 
-Using [pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/) to analyze organization profiles available on Crunchbase's platform via its daily CSV export, and [plotly.express](https://plotly.com/python/plotly-express/) to plot geographic data on various maps.
+![Top 100 U.S. cities with the most companies](images/top-100-us-cities-bubble.png)
+
+Using [pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/) to analyze organization profiles available on Crunchbase's platform via its daily CSV export, and [plotly.express](https://plotly.com/python/plotly-express/) to plot the geographic data.
 
 - Organization dataset via [Crunchbase Data](https://data.crunchbase.com/docs/daily-csv-export)
 - `Country Code <-> Country Name` table: [opendatasoft](https://www.opendatasoft.com/), [dataset](https://public.opendatasoft.com/explore/dataset/countries-codes/export/?rows=1)
