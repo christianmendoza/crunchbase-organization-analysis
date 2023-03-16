@@ -3,5 +3,6 @@ Thumbs.db
 db.json
 .ipynb_checkpoints
 crunchbase.tar.gz
+checksum.csv
 organizations.csv
 people.csv
