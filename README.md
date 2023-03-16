@@ -3,7 +3,7 @@ View the Jupyter notebook: [crunchbase-analysis.ipynb](//github.com/christianmen
 
 ![Top 100 U.S. cities with the most companies](images/top-100-us-cities-bubble.png)
 
-Using [pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/) to analyze organization profiles available on Crunchbase's platform via its daily CSV export, and [plotly.express](https://plotly.com/python/plotly-express/) to plot the geographic data.
+Using [pandas](https://pandas.pydata.org/) to analyze organization profiles available on Crunchbase's platform via its daily CSV export, and [plotly.express](https://plotly.com/python/plotly-express/) to plot the geographic data.
 
 - Organization dataset via [Crunchbase Data](https://data.crunchbase.com/docs/daily-csv-export)
 - `Country Code <-> Country Name` table: [opendatasoft](https://www.opendatasoft.com/), [dataset](https://public.opendatasoft.com/explore/dataset/countries-codes/export/?rows=1)
